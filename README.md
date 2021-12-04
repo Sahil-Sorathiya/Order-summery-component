@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/order-summery-responsive-component-YroLgmB1z)
+- [Live Site URL](https://goofy-franklin-c3f2da.netlify.app/)
 
 ## My process
 
@@ -28,6 +28,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.github.com/Sahil-Sorathiya)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Sahil-Sorathiya)
+- Website - [Sahil Sorathiya](https://www.github.com/Sahil-Sorathiya)
+- Frontend Mentor - [@Sahil-Sorathiya](https://www.frontendmentor.io/profile/Sahil-Sorathiya)
 
